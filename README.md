@@ -12,7 +12,7 @@ This is a Java-based application that uses SQLite, the Alpha Vantage API, and JF
 - **Search Functionality:** Provides an autocomplete search for stocks  
   *(Note: The search feature is still under development and may not work perfectly.)*
 
-  ![Ekran görüntüsü 2025-02-01 171008](https://github.com/user-attachments/assets/653ece55-5ac8-4b3c-a351-1c3c339b5abe) <img src="drawing.jpg" alt="drawing" width="200"/>
+ <img src="[drawing.jpg](https://github.com/user-attachments/assets/653ece55-5ac8-4b3c-a351-1c3c339b5abe)" alt="drawing" width="200"/>
   ![Ekran görüntüsü 2025-02-01 170810](https://github.com/user-attachments/assets/67a7cae3-0f0b-4df4-b0dd-3732e6791cd3)
 ## Requirements
 
