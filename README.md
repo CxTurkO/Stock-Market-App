@@ -12,6 +12,8 @@ This is a Java-based application that uses SQLite, the Alpha Vantage API, and JF
 - **Search Functionality:** Provides an autocomplete search for stocks  
   *(Note: The search feature is still under development and may not work perfectly.)*
 
+  ![Ekran görüntüsü 2025-02-01 171008](https://github.com/user-attachments/assets/653ece55-5ac8-4b3c-a351-1c3c339b5abe)
+  ![Ekran görüntüsü 2025-02-01 170810](https://github.com/user-attachments/assets/67a7cae3-0f0b-4df4-b0dd-3732e6791cd3)
 ## Requirements
 
 - Java 8 or higher
@@ -22,7 +24,9 @@ This is a Java-based application that uses SQLite, the Alpha Vantage API, and JF
 
 1. **Clone the repository.**
 2. **Database:** Place the `mydatabase.db` file in the `src/main/resources` directory.
-3. **API Key:** Update the API key in the source code (replace `YOUR_API_KEY` with your actual key).
+
+3. **API Key:** Update the API key in the source 
+code (replace `YOUR_API_KEY` with your actual key).
 4. **Build and Run:** Open the project in your preferred IDE (e.g., IntelliJ IDEA) and run the application.
 
 ## Known Issues
